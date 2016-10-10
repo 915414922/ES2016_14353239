@@ -1,1 +1,2 @@
-# https://github.com/CPSinSYSU/ES2016_14353239
+# Experimental experience
+本次的实验由于之前的课程已经安装了虚拟机，所以在安装github的时候没有遇到什么困难，倒是这个新的编程语言让我非常的感兴趣，希望以后的实验越来越有趣。
