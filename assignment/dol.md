@@ -1,6 +1,7 @@
 # picture
 1.
 ![example2](https://github.com/915414922/ES2016_14353239/blob/master/lab3_2.PNG)
+
 2.
 ![example1](https://github.com/915414922/ES2016_14353239/blob/master/lab3_1.PNG)
 # How to edit
